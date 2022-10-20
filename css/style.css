@@ -59,4 +59,8 @@ section {
 .p_center {
   text-align: center;
 }
+#anime {
+  width: 150px;
+  height: 150px;
+}
 
