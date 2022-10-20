@@ -31,9 +31,7 @@ section {
 }
 
 #navbar-container{
-  float: left;
-  position: relative;
-  left: 50%;
+  list-style-type: none;
 }
 
 #main-navbar ul{
