@@ -58,6 +58,7 @@ section {
 }
 .p_center {
   text-align: center;
+  text-color:red;
 }
 img{
   max-height: 250px;
