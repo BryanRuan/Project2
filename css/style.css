@@ -4,6 +4,9 @@ body {
 h1 {
   text-align: center;
   font-family: Times New Roman;
+  color:blue
+  font-size: 32px;
+
 }
 li {
   list-style-type: square;
@@ -57,7 +60,7 @@ section {
   text-align: center;
   font-family: Times New Roman;
   font-size: 32px;
-  color:red;
+  color:blue;
 }
 img{
   max-height: 250px;
