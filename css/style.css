@@ -15,6 +15,7 @@ section {
 #current-page {
   text-decoration: underline overline;
   color: #fff;
+  font-size: 32px;
 }
 #face {
   float: right;
