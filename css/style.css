@@ -9,7 +9,7 @@ h1 {
 
 }
 li {
-  list-style-type: square;
+  list-style-type: none;
   text-align: center;
 }
 section {
